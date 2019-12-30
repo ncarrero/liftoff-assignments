@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+* [Wireframes](https://www.fluidui.com/editor/live/preview/cF9SQU1tZVZPRk5kVGZpUXdjWDFmcDg0aUV5UnIwQzJ6Wg==)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/YbhsYOmf/liftoff-project)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Class Counter](https://github.com/ncarrero/ClassCounter)
