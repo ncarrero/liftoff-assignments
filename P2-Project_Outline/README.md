@@ -18,7 +18,8 @@ have been taken at the same location, how many classes have been taken with the 
 - Edit: Users will be able to edit their entries in case they have made an error while putting in workout information.
 - Remove: Users will be able to remove a workout entry if they decided not to complete that workout.
 ### Technologies: What languages and technologies will you use to build your application?
-- C#
+- C# with .NET
+- Razor Templates
 - SQL Server Database
 - .NET MVC Framework
 - Bootstrap for HTML
