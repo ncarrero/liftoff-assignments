@@ -16,4 +16,4 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Repo Link
 
-[Class Tracker](https://github.com/ncarrero/WorkoutTracker)
+[Workout Tracker](https://github.com/ncarrero/WorkoutTracker)
