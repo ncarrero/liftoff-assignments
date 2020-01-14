@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[ClassCounter](https://github.com/ncarrero/ClassCounter)
+[ClassCounter](https://github.com/ncarrero/WorkoutTracker)
